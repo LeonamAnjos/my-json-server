@@ -1,0 +1,39 @@
+{
+  "devices": {
+    "devices": [
+      {
+        "deviceUuid": "abc55555555",
+        "restaurantId": "12345",
+        "restaurantName": "Nice Indian Restaurant",
+        "privateUuid": null,
+        "active": true,
+        "countryCode": "NO",
+        "updatedAt": "2020-02-24T15:59:33.492878Z",
+        "rpsClientAppType": null
+      },
+      {
+        "deviceUuid": "abc44444444",
+        "restaurantId": "12345",
+        "restaurantName": "Nice Indian Restaurant",
+        "privateUuid": null,
+        "active": false,
+        "countryCode": "NO",
+        "updatedAt": "2020-02-24T15:59:33.479919Z",
+        "rpsClientAppType": null
+      },
+      {
+        "deviceUuid": "abc33333333",
+        "restaurantId": "12345",
+        "restaurantName": "Nice Indian Restaurant",
+        "privateUuid": null,
+        "active": true,
+        "countryCode": "NO",
+        "updatedAt": "2020-02-24T15:59:33.466024Z",
+        "rpsClientAppType": null
+      }
+    ],
+    "total": 110,
+    "offset": 0,
+    "limit": 50
+  }
+}
