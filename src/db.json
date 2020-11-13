@@ -35,5 +35,15 @@
     "total": 110,
     "offset": 0,
     "limit": 50
-  }
+  },
+  "records": [
+    {
+      "id": 1,
+      "name": "test"
+    },
+    {
+      "id": 2,
+      "name": "test"
+    }
+  ]
 }

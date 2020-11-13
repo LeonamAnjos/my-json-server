@@ -1,0 +1,42 @@
+[
+  {
+    "deviceUuid": "123ASFSDF",
+    "restaurantId": "1234",
+    "restaurantName": "TATATATA 211111",
+    "privateUuid": null,
+    "active": true,
+    "countryCode": "TR",
+    "updatedAt": "2019-11-27T10:20:29.645004Z",
+    "rpsClientAppType": null
+  },
+  {
+    "deviceUuid": "44",
+    "restaurantId": "1234",
+    "restaurantName": null,
+    "privateUuid": null,
+    "active": true,
+    "countryCode": null,
+    "updatedAt": null,
+    "rpsClientAppType": null
+  },
+  {
+    "deviceUuid": "12345",
+    "restaurantId": "1234",
+    "restaurantName": null,
+    "privateUuid": null,
+    "active": true,
+    "countryCode": null,
+    "updatedAt": null,
+    "rpsClientAppType": null
+  },
+  {
+    "deviceUuid": "1234",
+    "restaurantId": "1234",
+    "restaurantName": null,
+    "privateUuid": null,
+    "active": true,
+    "countryCode": null,
+    "updatedAt": null,
+    "rpsClientAppType": null
+  }
+]
